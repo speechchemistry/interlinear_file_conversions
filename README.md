@@ -1,4 +1,4 @@
-Scripts to convert interlinear glossed texts (IGT) into different formats
+Scripts to convert interlinear glossed texts (IGT) into different formats.
 
 Script `tsv_to_flextext.py` converts from a TSV file that has two column, the first column is phrases in the vernacular language and the second is free translation in the analysis language (e.g. English). One common scenario that this script is meant to help with is when you have grammar paradigms listed in a spreadsheet and you want to do more analysis with Flex.    
 
@@ -15,7 +15,7 @@ You can either clone this repository or just select the script you want and down
 
 ## Examples
 
-Say you have the following table:
+Say you have the following table where the first row defines the language ISO codes:
 
 |zhi|en|
 |---|---|
